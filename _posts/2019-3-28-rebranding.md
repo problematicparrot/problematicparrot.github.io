@@ -10,4 +10,7 @@ Ranging from simple office programs to complex image manipulation packages,
 the FOSSpository will have an ever-growing list of programs to use,
 with no charge!
 
+Due to inexperience with Github Pages and Jekyll, the link to the repository wil
+be held [here.](https://problematicparrot.github.io/repository/)
+
 (As of 3/28/19 10:23 PST, the list is currently empty)
