@@ -8,6 +8,15 @@ permalink: /repository/
 
 Welcome to the FOSS repository!
 
-There isn't much here right now, but there will be more links
-as time goes on, and as Problematic Parrot discovers new and
-exciting softwares for your usage!
+Here you will find a list of various open-source and free softwares
+for your use.
+
+----------o----------
+
+## LibreOffice
+
+LibreOffice is a suite of office programs similar to Microsoft's
+suite, although with no cost and a somewhat similar learning curve
+for all of the packages included.
+
+[LibreOffice Homepage](https://www.libreoffice.org/)
